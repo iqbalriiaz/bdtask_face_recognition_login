@@ -23,7 +23,7 @@ pod install
 4- Run on device (Check device connected or any virtual device running):
 
 ```
-flutter run
+flutter run 
 ```
 
 
